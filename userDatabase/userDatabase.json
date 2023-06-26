@@ -1,0 +1,42 @@
+[
+  {
+    "id": "52a90cf0-93ed-430b-8f84-da78a10b4ad8",
+    "userName": "reppp",
+    "email": "example@gmail.com",
+    "password": "$2b$10$.zGRsEYKI2IsPy1VS9am5ez0PJ/FDi3BW.0Ixlq9lRCbxXC07605O",
+    "createAt": "2023-06-19T17:24:45.239Z",
+    "updatedAt": "2023-06-19T17:24:45.239Z"
+  },
+  {
+    "id": "a5a24200-a1e5-4fc8-8e44-cf17c971b083",
+    "userName": "Ramot raji",
+    "email": "exampl@gmail.com",
+    "password": "$2b$10$xzaShVe8aJurOfUMaHqqVetlj2A3jfRES47EFYFz.OMexsVkJwA8i",
+    "createAt": "2023-06-19T22:13:04.975Z",
+    "updatedAt": "2023-06-19T22:13:04.975Z"
+  },
+  {
+    "id": "857604d3-8bfb-4578-878c-e7034488c851",
+    "userName": "kuu",
+    "email": "ajj@gmail.com",
+    "password": "$2b$10$u6.BESCXWhZ03jOGKW4SxufLRwLEgsh3znb6Ghmn3g/rVt9eaVgp6",
+    "createAt": "2023-06-24T08:41:38.765Z",
+    "updatedAt": "2023-06-24T08:41:38.765Z"
+  },
+  {
+    "id": "e70b9af1-06bc-4580-8021-76631366c1ec",
+    "userName": "kAMOR",
+    "email": "aj@gmail.com",
+    "password": "$2b$10$pUHD0JOPWFSI3.yaqxXRhuQ/WcV1rMxRjBN4XpNQFMQSRVmHg7CbW",
+    "createAt": "2023-06-24T08:58:23.012Z",
+    "updatedAt": "2023-06-24T08:58:23.012Z"
+  },
+  {
+    "id": "2e62a904-0452-4444-a6a7-9dbdf0300966",
+    "userName": "wale adu",
+    "email": "excel@gmail.com",
+    "password": "$2b$10$/xA7Sf/oNSjQ8AomnQtQ5ORC.8vzjhT2lXqW3MKw4HJnPgsNLyC8i",
+    "createAt": "2023-06-24T14:03:50.933Z",
+    "updatedAt": "2023-06-24T14:03:50.933Z"
+  }
+]
